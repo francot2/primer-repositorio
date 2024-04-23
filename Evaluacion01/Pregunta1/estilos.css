@@ -1,0 +1,118 @@
+main{
+    background-color: white;
+    width: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.seccion1{
+    height: 30px;
+    display: flex;
+}
+
+.logoxbox{
+    height: 30px;
+    margin-left: 60px;
+}
+
+.menu{
+    display: flex;
+    list-style-type: none;
+    margin-top: 2px;
+    font-size: 12px;
+}
+
+li{
+    padding-left: 2rem;
+}
+
+.seccion2{
+    background-image: url("img/banner.jpg");
+    background-size: cover;
+    height: 400px;
+    color: white;
+}
+
+h1{
+    padding-top: 100px;
+    margin-top: 0px;
+    margin-left: 60px;
+    font-size: 40px;
+}
+
+h2{
+    max-width: 400px;
+    margin-left: 60px;
+    font-size: 18px;
+}
+.boton1{
+    margin-left: 60px;
+    background-color: #9BF00B;
+    border-color: black;
+    padding: 5px 15px;
+}
+
+.boton2{
+    color: #9BF00B;
+    background-color: black;
+    border-color: black;
+    padding: 5px 15px;
+}
+
+.seccion3{
+    display: flex;
+    font-size: 10px;
+    height: 50px;
+}
+
+h3{
+    margin-left: 60px;
+    padding-top: 5px;
+}
+
+.logo{
+    padding-left: 1rem;
+}
+
+.seccion4{
+    background-color: #F2F2F2;
+    font-size: 10px;
+    display: flex;
+    padding-top: 20px;
+}
+
+h4{
+    color: rgba(50, 46, 46, 0.7);
+}
+
+
+h5{
+    color: rgba(101, 95, 95, 0.7);
+}
+
+.seccion5{
+    margin-left: 60px;
+    max-width: 100px;
+}
+
+.seccion6{
+    margin-left: 60px;
+    max-width: 120px;
+}
+
+.seccion7{
+    display: flex;
+    background-color: #F2F2F2;
+
+}
+
+ul{
+    margin-left: 400px;
+    display: flex;
+    font-size: 10px;
+    list-style-type: none;
+}
+
+
